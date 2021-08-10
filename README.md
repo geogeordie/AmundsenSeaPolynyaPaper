@@ -11,7 +11,7 @@ All processing was done with free software. All processing scripts for Python, e
 with GDAL directly in the Terminal on a Mac and Video S1 was created in Google Earth Engine. Other processing was done manually in QGIS, as indicated.
 
 BedMachine Antarctica V2 was downloaded from: https://nsidc.org/data/nsidc-0756. 
-Sea ice concentration data was downloaded from: seaice.uni-bremen.de. 
-ERA5 climate data was downloaded from: cds.climate.copernicus.eu. 
-Sentinel-1 images were processed in Google Earth Engine or downloaded from: asf.alaska.edu
+Sea ice concentration data was downloaded from: https://seaice.uni-bremen.de. 
+ERA5 climate data was downloaded from: https://cds.climate.copernicus.eu. 
+Sentinel-1 images were processed in Google Earth Engine or downloaded from: https://asf.alaska.edu
 The MODIS image used for Fig. 1b was downloaded from: https://worldview.earthdata.nasa.gov/
