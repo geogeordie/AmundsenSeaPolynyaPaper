@@ -1,0 +1,60 @@
+##Figures
+This directory includes scripts for figures where applicable, or otherwise states where the figure was created.
+* indicates script provided. All scripts are provided in this repository, except the Google Earth Engine script for Video S1, which is at the provided link.
+
+#FIG1
+Created in QGIS (QGIS.org). Fig. 1a utilizes the free QGIS package 'Quantarctica' (https://www.npolar.no/en/quantarctica/) and 1b uses a MODIS image from https://worldview.earthdata.nasa.gov/
+
+#FIG2
+Created in QGIS. Figs. 1a-d use Sentinel-1 images downloaded from ASF (https://asf.alaska.edu/) and BedMachine v2 data from (https://nsidc.org/data/nsidc-0756)
+
+#FIG3
+Created in QGIS using Sentinel-1 image downloaded from ASF.
+
+#FIG4*
+Created in Python. Data from University of Bremen (https://seaice.uni-bremen.de/start/)
+
+#FIG5*
+Created in Python. Data from University of Bremen.
+
+#FIG6*
+Created in Python. Script provided. Ice production data processed from University of Bremen and ECMWF (cds.climate.copernicus.eu.) data as described in paper, following Cheng et al. 2017. Script also provided for processing.
+
+#FIG7
+Created in QGIS from data processed in Python.  Ice production data processed from University of Bremen and ECMWF data as described in paper, following Cheng et al. 2017. Script also provided for processing.
+
+#FIG8*
+Created in Python. Script provided. Data from University of Bremen and ECMWF.
+
+#FIG9*
+Created in Python. Script provided. Data from ECMWF.
+
+#FIG10*
+Created in Python. Script provided. Data from University of Bremen.
+
+#FIG11*
+Created in Python. Script provided. Data from University of Bremen.
+
+#FIGS1
+Created in QGIS, uses a MODIS image from https://worldview.earthdata.nasa.gov/
+
+#FIGS2*
+Created in Python. Script provided. Data from University of Bremen and ECMWF.
+
+#FIGS3*
+Created in Python. Script provided. Ice production data processed from University of Bremen and ECMWF (cds.climate.copernicus.eu.) data as described in paper, following Cheng et al. 2017.
+
+#FIGS4*
+Created in Python. Script provided. Data from University of Bremen
+
+#VIDEO S1*
+Timel-lapse video created in multiple parts in Google Earth Engine (script: . Video then time-stamped in Python (Script provided) and stitched together using QuicktimePlayer.
+
+#Video S2*
+Created in Python. Script provided. Data from
+
+#Video S3*
+Created in Python. Script provided. Data from
+
+
+
