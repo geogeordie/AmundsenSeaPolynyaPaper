@@ -1,4 +1,4 @@
-# AmundsenPaper
+# AmundsenSeaPolynyaPaper
 
 Find here the scripts for processing data and making figures in the paper:
 
