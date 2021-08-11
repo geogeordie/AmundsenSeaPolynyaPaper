@@ -53,8 +53,8 @@ Created in Python. Script provided. Data from ECMWF.
 #FIG10*
 Created in Python. Script provided. Data from University of Bremen.
 
-#FIG11*
-Created in Python. Script provided. Data from University of Bremen.
+#FIG11
+Created in QGIS.  Data from University of Bremen.
 
 #FIGS1
 Created in QGIS, uses a MODIS image from https://worldview.earthdata.nasa.gov/
