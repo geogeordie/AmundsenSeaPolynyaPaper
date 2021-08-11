@@ -20,7 +20,8 @@ Information on each figure - and the data used in it, below.
 
 ##Figures
 This directory includes scripts for figures where applicable, or otherwise states where the figure was created.
-* indicates script provided. All scripts are provided in this repository, except the Google Earth Engine script for Video S1, which is at the provided link.
+'* indicates script provided. All scripts are provided in this repository, except the Google Earth Engine script for Video S1, which is at the provided link.
+If there is no script, it is because it was created 'manually'.
 
 #FIG1
 Created in QGIS (QGIS.org). Fig. 1a utilizes the free QGIS package 'Quantarctica' (https://www.npolar.no/en/quantarctica/) and 1b uses a MODIS image from https://worldview.earthdata.nasa.gov/
