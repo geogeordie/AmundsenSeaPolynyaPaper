@@ -78,6 +78,13 @@ Created in Python. Script provided. Data from University of Bremen.
 #Video S3*
 Created in Python. Script provided. Data from ECMWF.
 
+-----------
+
+To calculate Iceproduction:
+1) CalculateHeatFlux.ipynb
+2) CalculateIceProduction.ipynb
+
+
 -------------
 
 Mask7.shp (and shx/dbf) = ASP study area shapefile
