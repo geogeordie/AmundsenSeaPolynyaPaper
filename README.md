@@ -77,3 +77,7 @@ Created in Python. Script provided. Data from University of Bremen.
 
 #Video S3*
 Created in Python. Script provided. Data from ECMWF.
+
+-------------
+
+Mask7.shp (and shx/dbf) = ASP study area shapefile
