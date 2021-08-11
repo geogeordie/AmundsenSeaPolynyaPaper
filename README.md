@@ -73,10 +73,10 @@ Timel-lapse video created in multiple parts in Google Earth Engine (script: http
 Video then time-stamped in Python (Script provided) and stitched together using QuicktimePlayer.
 
 #Video S2*
-Created in Python. Script provided. Data from University of Bremen.
+Created in Python. Script provided. Data from University of Bremen. Stitch together multiple years in QuickTime Player.
 
 #Video S3*
-Created in Python. Script provided. Data from ECMWF.
+Created in Python. Script provided. Data from ECMWF. Stitch together multiple years in QuickTime Player.
 
 -----------
 
