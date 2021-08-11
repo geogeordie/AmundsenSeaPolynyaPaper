@@ -81,3 +81,5 @@ Created in Python. Script provided. Data from ECMWF.
 -------------
 
 Mask7.shp (and shx/dbf) = ASP study area shapefile
+BroaderSICMask1.shp (and shx/dbf) = Broader ASP study area shapefile
+
